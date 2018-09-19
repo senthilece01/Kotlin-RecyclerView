@@ -4,7 +4,7 @@ RecyclerView Example with custom Adapter Using Kotlin in Android Studio
 
 ### Screenshot :
 
-![screenshot_1537381518](https://user-images.githubusercontent.com/10756609/45773267-7b3c4180-bc67-11e8-9743-46550800b01c.png)
+![screenshot_1537382820](https://user-images.githubusercontent.com/10756609/45774449-96f51700-bc6a-11e8-869d-236c39cb956c.png)
 
 ### Contact:
 
