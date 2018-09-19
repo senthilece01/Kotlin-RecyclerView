@@ -19,7 +19,7 @@ class RecyclerViewActivity : AppCompatActivity() {
 
         rvRecyclerView.layoutManager = LinearLayoutManager(this, LinearLayout.VERTICAL, false)
 
-        var adapter = CustomRecyclerAdapter(this, Helper.Companion.getListViewModelList())
+        var adapter = CustomRecyclerAdapter(this, Helper.Companion.getVersionsList())
         rvRecyclerView.adapter = adapter
     }
 }
