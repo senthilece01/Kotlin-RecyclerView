@@ -15,7 +15,7 @@ class Helper{
             androidVersionList.add(AndroidVersionModel(R.drawable.honeycomb, "Honeycomb", "3.0 - 3.2.6", apiLevel = "11 - 13"))
             androidVersionList.add(AndroidVersionModel(R.drawable.ice_cream_sandwich, "Ice Cream Sandwich", "4.0 - 4.0.4", apiLevel = "14 - 15"))
             androidVersionList.add(AndroidVersionModel(R.drawable.jelly_bean, "Jelly Bean", "4.1 - 4.3.1", apiLevel = "16 - 18"))
-            androidVersionList.add(AndroidVersionModel(R.drawable.kitkat, "kitKat", "4.4 - 4.4.4", apiLevel = "19 - 20"))
+            androidVersionList.add(AndroidVersionModel(R.drawable.kitkat, "KitKat", "4.4 - 4.4.4", apiLevel = "19 - 20"))
             androidVersionList.add(AndroidVersionModel(R.drawable.lollipop, "Lollipop", "5.0 - 5.1.1", apiLevel = "21 - 22"))
             androidVersionList.add(AndroidVersionModel(R.drawable.marshmallow, "Marshmallow", "6.0 - 6.0.1", apiLevel = "23"))
             androidVersionList.add(AndroidVersionModel(R.drawable.nougat, "Nougat", "7.0 - 7.1.2", apiLevel = "24 - 25"))
